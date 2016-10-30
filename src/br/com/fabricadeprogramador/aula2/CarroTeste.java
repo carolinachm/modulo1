@@ -1,4 +1,6 @@
-package br.com.fabricadeprogramador.aula1;
+package br.com.fabricadeprogramador.aula2;
+
+import br.com.fabricadeprogramador.aula1.Carro;
 
 /**
  * Created by carolina on 29/10/16.
