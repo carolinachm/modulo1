@@ -1,4 +1,4 @@
-package br.com.fabricadeprogramador.aula2;
+package br.com.fabricadeprogramador.teste;
 
 import br.com.fabricadeprogramador.aula1.Carro;
 

@@ -7,6 +7,6 @@ package br.com.fabricadeprogramador.aula1;
  */
 public class Cidade {
 
-    String nome;
-    String uf;
+    public String nome;
+    public String uf;
 }

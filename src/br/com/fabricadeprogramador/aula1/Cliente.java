@@ -1,11 +1,17 @@
 package br.com.fabricadeprogramador.aula1;
 
 /**
- * Created by carolina on 29/10/16.
+ * Created by carolina on 30/10/16.
  */
 public class Cliente {
 
-    String nome;
-    String cpf;
-    String rg;
+    public String nome;
+    public String cpf;
+    public String rg;
+    public Double peso;
+    public Double altura;
+    public Boolean ativado;
+    public EstadoCivil estadoCivil;
+
+
 }

@@ -5,9 +5,9 @@ package br.com.fabricadeprogramador.aula1;
  */
 public class Carro {
 
-    String cor;
-    String marca;
-    String modelo;
-    Integer ano;
+    public String cor;
+    public String marca;
+    public String modelo;
+    public Integer ano;
 
 }

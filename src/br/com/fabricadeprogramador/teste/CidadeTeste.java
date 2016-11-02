@@ -1,4 +1,6 @@
-package br.com.fabricadeprogramador.aula1;
+package br.com.fabricadeprogramador.teste;
+
+import br.com.fabricadeprogramador.aula1.Cidade;
 
 /**
  * Created by carolina on 29/10/16.
